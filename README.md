@@ -19,8 +19,8 @@ This project is a simple Django REST API that provides CRUD (Create, Read, Updat
 1. **Clone the repository:**
 
     ```bash
-    git clone <repository-url>
-    cd usercrud
+    git clone https://github.com/alaamohammad04/user-crud-service.git
+    cd user-crud-service
     ```
 
 2. **Create a virtual environment and activate it:**
